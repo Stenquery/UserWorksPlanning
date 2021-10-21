@@ -1,0 +1,9 @@
+C:\UserProject\UserProject.Entity\bin\Debug\netstandard2.0\UserProject.Entity.deps.json
+C:\UserProject\UserProject.Entity\bin\Debug\netstandard2.0\UserProject.Entity.dll
+C:\UserProject\UserProject.Entity\bin\Debug\netstandard2.0\UserProject.Entity.pdb
+C:\UserProject\UserProject.Entity\obj\Debug\netstandard2.0\UserProject.Entity.csprojAssemblyReference.cache
+C:\UserProject\UserProject.Entity\obj\Debug\netstandard2.0\UserProject.Entity.AssemblyInfoInputs.cache
+C:\UserProject\UserProject.Entity\obj\Debug\netstandard2.0\UserProject.Entity.AssemblyInfo.cs
+C:\UserProject\UserProject.Entity\obj\Debug\netstandard2.0\UserProject.Entity.csproj.CoreCompileInputs.cache
+C:\UserProject\UserProject.Entity\obj\Debug\netstandard2.0\UserProject.Entity.dll
+C:\UserProject\UserProject.Entity\obj\Debug\netstandard2.0\UserProject.Entity.pdb
